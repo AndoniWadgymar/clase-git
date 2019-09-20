@@ -1,2 +1,2 @@
-# Andoni Wadgymar Iñiguez :(
+# Andoni Wadgymar IÃ±iguez :)
 Clase de Git y Gitbuh de el ITAM
